@@ -1,0 +1,70 @@
+body{
+    background-color: black;
+}
+.containerClass{
+    background-color: black;
+    color: white;
+    height: 100vh;
+}
+
+.todoClass{
+    background-color: black;
+    color: white;
+    height: 100vh;
+    font-size: 3rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.addTaskClass{
+    background-color: black;
+    color: black;
+    height: 10%;
+}
+
+.listTaskClass{
+    background-color: #3C3D37;
+    color: white;
+    height: 60%;
+    font-size: 30px;
+    font-style: oblique;
+    border: 1px solid white;
+    border-radius: 10px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.input{
+    width: 60%;
+    height: 60%;
+    font-size: 2.5rem;
+    background-color: #3C3D37;
+    border-radius: 10px;
+    color: white;
+    border: 1px solid white;
+}
+
+.input::placeholder{
+    font-size: 1.5rem;
+}
+
+.AddSection{
+    height: 50%;
+}
+
+.buttonAdd{
+    height: 60%;
+    font-size: 1.2rem;
+}
+
+.listTask{
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+.buttonDelete{
+    height: 60%;
+}
+
+.taskInput{
+    font-size: 1.2rem;
+}
